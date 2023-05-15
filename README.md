@@ -3,12 +3,16 @@ React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
 
 ## Demo
 
-  Dashboard Page
-  <p>
- <img src="https://github.com/isabeljohnson001/svc_dashboard/blob/2fd3f8cdfdde732c668eafc8e6a919b18bc57d89/demo/dashboard.png" width="2000"/>
- </br>
- <img src=" https://github.com/isabeljohnson001/svc_dashboard/blob/2d41329839b9c203713d19ee11b93db0329d8b42/demo/dashboard_2.png" width="2000"/>
- </br>
+Dashboard Page
+<p>
+<img src="https://github.com/isabeljohnson001/svc_dashboard/blob/2fd3f8cdfdde732c668eafc8e6a919b18bc57d89/demo/dashboard.png" width="2000"/>
+</br>
+<p>
+<img src=" https://github.com/isabeljohnson001/svc_dashboard/blob/2d41329839b9c203713d19ee11b93db0329d8b42/demo/dashboard_2.png" width="2000"/>
+</br>
+<p>
+<img src=" https://github.com/isabeljohnson001/svc_dashboard/blob/2d41329839b9c203713d19ee11b93db0329d8b42/demo/dashboard_2.png" width="2000"/>
+</br>
  
 ## Quick start
 
