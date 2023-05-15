@@ -7,11 +7,8 @@ Dashboard Page
 <p>
 <img src="https://github.com/isabeljohnson001/svc_dashboard/blob/2fd3f8cdfdde732c668eafc8e6a919b18bc57d89/demo/dashboard.png" width="2000"/>
 </br>
-<p>
-<img src=" https://github.com/isabeljohnson001/svc_dashboard/blob/2d41329839b9c203713d19ee11b93db0329d8b42/demo/dashboard_2.png" width="2000"/>
+<img src="https://github.com/isabeljohnson001/svc_dashboard/blob/991701b9a4a4f53d81d484dd287032e8b25d0541/demo/dashboard_2.png" width="2000"/>
 </br>
-<p>
-<img src=" https://github.com/isabeljohnson001/svc_dashboard/blob/2d41329839b9c203713d19ee11b93db0329d8b42/demo/dashboard_2.png" width="2000"/>
 </br>
  
 ## Quick start
