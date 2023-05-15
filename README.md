@@ -3,14 +3,13 @@ React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
 
 ## Demo
 
-- [Dashboard Page](https://material-kit-react.devias.io)
-- [Companies Page](https://material-kit-react.devias.io/companies)
-- [Customers Page](https://material-kit-react.devias.io/customers)
-- [Account Page](https://material-kit-react.devias.io/account)
-- [Settings Page](https://material-kit-react.devias.io/settings)
-- [Login Page](https://material-kit-react.devias.io/auth/login)
-- [Register Page](https://material-kit-react.devias.io/auth/register)
-
+  Dashboard Page
+  <p>
+ <img src="https://github.com/isabeljohnson001/svc_dashboard/blob/2fd3f8cdfdde732c668eafc8e6a919b18bc57d89/demo/dashboard.png" width="2000"/>
+ </br>
+ <img src=" https://github.com/isabeljohnson001/svc_dashboard/blob/2d41329839b9c203713d19ee11b93db0329d8b42/demo/dashboard_2.png" width="2000"/>
+ </br>
+ 
 ## Quick start
 
 - [Download from Github](https://github.com/isabeljohnson001/svc_dashboard.zip) or clone the
